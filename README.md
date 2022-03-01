@@ -4,7 +4,10 @@
 
 ## 배포 주소
 
-## <a href=https://preonboarding14-kukka.netlify.app//>배포 사이트</a>
+## <a href="https://preonboarding14-kukka.netlify.app"/>배포 사이트</a>
+
+## 회고록
+## <a href="https://hell-of-company-builder.tistory.com/272?category=921712"/>블로그 회고록</a>
 
 ## 📋개발 진행 상황 공유
 
